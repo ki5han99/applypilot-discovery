@@ -16,6 +16,20 @@ CANDIDATES = [
     "dbtlabsinc", "humaninterest", "branch", "srsacquiom", "exactera",
     "sagent", "livefront", "datakindinc", "cresta", "wonderschool",
     "florencehealthcare",
+    # Sixth batch -- verified via WebSearch of real job-boards.greenhouse.io URLs
+    "cargomatic", "roadie", "shift5", "kargo22", "innodatainc", "knowbe4",
+    "cybersheath", "galaxydigitalservices", "enhesa", "ujet", "lts",
+    "thinkingmachines", "10alabs", "midihealth", "alt", "hungryroot",
+    "maintainx", "opploans", "correlationone", "fleetio", "warp",
+    "airtable", "future", "sandiegocommunitypower", "coupang",
+    "ocrolusinc", "eltropyinc", "falconx", "bottomlinetechnologies",
+    "rhinofederatedcomputing", "avepoint", "carrotfertility",
+    "nscaleoperationsukltd", "gusto", "ionq", "consensys",
+    "abnormalsecurity", "manifoldbio", "axle", "spacex", "oura", "natera",
+    "lexingtonmedical", "weee", "atlassand", "everagtester",
+    "redwoodmaterials", "gofundme", "faire", "perpay", "commercetools",
+    "ezcaterinc", "yipitdata", "loop", "fourkites", "sitrepsllc",
+    "gatherai", "onenergy", "rocketlab",
 ]
 
 KEYWORDS = [
