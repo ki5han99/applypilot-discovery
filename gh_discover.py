@@ -6,20 +6,16 @@ DB = "/Users/sainandakishanedimadakala/.applypilot/applypilot.db"
 # Candidate Greenhouse-hosted companies (board token = url slug).
 # Mix of fintech / enterprise / healthcare / gaming-adjacent tech, avoiding known Workday shops.
 CANDIDATES = [
-    # Fourth batch -- verified via WebSearch of real job-boards.greenhouse.io URLs
-    "bpcs", "rockstargames", "underdogfantasy", "xdesign", "sayari",
-    "labelbox", "snorkelai", "vercel", "upgrade", "splashfinancial",
-    "tailscale", "pilothq", "forafinancial", "focusfinancialpartners",
-    "honeycombinsurance", "engine", "courierhealth", "qualifiedhealth",
-    "inizioevoke", "jobsatphamily", "garnerhealth",
-    "globalhealthcareexchangeinc", "transcarent", "overstory", "govini",
-    "springhealth66", "evio", "iherb", "scopely", "soundcloud71",
-    "penninteractive", "nex", "sportygroup", "cemd", "omadahealth",
-    "canopyconnect", "accordion", "komodohealth", "evolutioniq", "xai",
-    "6sense", "babylist", "horacemannservicecorporation", "purestorage",
-    "successacademycharterschool", "liberate", "securityscorecard",
-    "doximity", "modernhealth", "cloverhealth", "counterparthealth",
-    "smarterdx", "mavenclinic",
+    # Fifth batch -- verified via WebSearch of real job-boards.greenhouse.io URLs
+    "enova", "audaxgroup", "praxisprecisionmedicines", "cerebrassystems",
+    "d2consulting", "grvty", "quberesearchandtechnologies", "greenhouse",
+    "iterativehealth", "hopscotchprimarycare", "definitivehc",
+    "imaginepediatrics", "hs", "heygen", "circleso", "thenuclearcompany",
+    "juullabs", "life360", "blastpoint", "xapo61", "headway", "isccareers",
+    "lithic", "karbon", "prolific", "3cloud", "planetlabs", "hasbro",
+    "dbtlabsinc", "humaninterest", "branch", "srsacquiom", "exactera",
+    "sagent", "livefront", "datakindinc", "cresta", "wonderschool",
+    "florencehealthcare",
 ]
 
 KEYWORDS = [
