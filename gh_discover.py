@@ -30,6 +30,19 @@ CANDIDATES = [
     "redwoodmaterials", "gofundme", "faire", "perpay", "commercetools",
     "ezcaterinc", "yipitdata", "loop", "fourkites", "sitrepsllc",
     "gatherai", "onenergy", "rocketlab",
+    # Seventh batch -- verified via WebSearch of real job-boards.greenhouse.io URLs
+    "climatecabinet", "climateai", "anewclimate", "tomorrow", "onecampaign",
+    "muonspace", "energysolutions", "appdirectraas", "dv01", "gympass",
+    "hatchcareers", "bringg", "appfire", "dexory", "gram",
+    "appliedintuition", "privateer", "edo", "zetaglobal", "valtech",
+    "xealth", "pieinsurance", "edgewoodpartnersinsurancecenter",
+    "slideinsurance", "youcom", "acrisureinnovation", "insurify", "boxinc",
+    "biohub", "flagshippioneeringinc", "precisionmedicinegroup",
+    "pedestalhealth", "supplyhouse", "upwork", "turing", "surveymonkey",
+    "shipbobinc", "diligentcorporation", "wurljobs", "wppmedia",
+    "grafanalabs", "northbeam", "charterschoolgrowthfund", "mixpanel",
+    "bevicareers", "torcrobotics", "apptronik", "nimblerobotics",
+    "locusrobotics", "zone5technologies", "workstream",
 ]
 
 KEYWORDS = [
