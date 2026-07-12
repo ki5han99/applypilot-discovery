@@ -6,20 +6,20 @@ DB = "/Users/sainandakishanedimadakala/.applypilot/applypilot.db"
 # Candidate Greenhouse-hosted companies (board token = url slug).
 # Mix of fintech / enterprise / healthcare / gaming-adjacent tech, avoiding known Workday shops.
 CANDIDATES = [
-    # Third batch -- companies not yet tried
-    "lyft", "pinterest2", "yelp", "eventbrite", "thumbtack", "nextdoor",
-    "patreon", "substack", "medium", "quora", "houseparty", "cameo",
-    "whatnot", "faire2", "chewy", "wayfair", "etsy", "poshmark", "stitchfix",
-    "grubhub", "postmates", "gopuff", "getir", "flexport2", "shippo",
-    "convoy", "samsara2", "motive", "veho", "loadsmart", "flock-safety",
-    "verkada", "arlo", "ring", "wyze", "nest", "sonos2", "roku",
-    "plex", "trulia", "zillow", "opendoor", "compass", "redfin",
-    "carvana", "vroom", "shift", "turo", "getaround", "outdoorsy",
-    "workato", "n8n", "make", "tray", "boomi", "celonis", "uipath",
-    "automationanywhere", "pega", "appian", "servicenow2", "freshworks",
-    "front", "helpscout", "kustomer", "gladly", "assemblyai", "deepgram",
-    "speechmatics", "voiceflow", "rasa", "dialpad", "aircall", "gong2",
-    "chorus", "clari2", "highspot", "seismic", "mediafly", "showpad",
+    # Fourth batch -- verified via WebSearch of real job-boards.greenhouse.io URLs
+    "bpcs", "rockstargames", "underdogfantasy", "xdesign", "sayari",
+    "labelbox", "snorkelai", "vercel", "upgrade", "splashfinancial",
+    "tailscale", "pilothq", "forafinancial", "focusfinancialpartners",
+    "honeycombinsurance", "engine", "courierhealth", "qualifiedhealth",
+    "inizioevoke", "jobsatphamily", "garnerhealth",
+    "globalhealthcareexchangeinc", "transcarent", "overstory", "govini",
+    "springhealth66", "evio", "iherb", "scopely", "soundcloud71",
+    "penninteractive", "nex", "sportygroup", "cemd", "omadahealth",
+    "canopyconnect", "accordion", "komodohealth", "evolutioniq", "xai",
+    "6sense", "babylist", "horacemannservicecorporation", "purestorage",
+    "successacademycharterschool", "liberate", "securityscorecard",
+    "doximity", "modernhealth", "cloverhealth", "counterparthealth",
+    "smarterdx", "mavenclinic",
 ]
 
 KEYWORDS = [
