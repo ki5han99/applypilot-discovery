@@ -64,6 +64,15 @@ CANDIDATES = [
     "wheelhousedmg", "cognitiv", "charlesriverassociates", "hightouch",
     "newsbreak", "togetherai", "amplitude", "shopmy", "scowtt",
     "coderoad", "verse", "horizonindustrieslimited",
+    # Tenth batch -- verified via WebSearch of real job-boards.greenhouse.io URLs
+    "cloudbeds", "casago", "lighthouse", "m3", "interval", "fanaticsfbg",
+    "swishanalytics", "rushstreetinteractive", "sumup", "cookunity",
+    "sweetgreen", "doordashusa", "afresh", "qualtrics", "techietalent",
+    "eqtpartners", "fartherfinance", "sezzle", "coast", "abacusinsights",
+    "accenturefederalservices", "hotelengine", "oscar", "gomotive",
+    "mettel", "skylotechnologies", "alphafmcroles", "lazarusenterprises",
+    "lilasciences", "bridgewater89", "recharge", "coherehealth",
+    "gravitypayments17",
 ]
 
 KEYWORDS = [
