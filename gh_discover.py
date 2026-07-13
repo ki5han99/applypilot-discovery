@@ -53,6 +53,17 @@ CANDIDATES = [
     "kodiak", "faradayfuture", "formic", "bedrockrobotics", "fortrobotics",
     "extend", "houseaccount", "placementsio", "drweng", "upstart",
     "digitalocean98", "legalservicesnyc", "metropolis", "cribl", "federato",
+    # Ninth batch -- verified via WebSearch of real job-boards.greenhouse.io URLs
+    "newsela", "vynyl", "udacity", "effectual", "mntn", "alma",
+    "fanaticscollectibles", "kardfinancialinc", "mitratech", "patientpoint",
+    "greenlightconsulting", "postman", "neweratech",
+    "hitachidigitalservices", "sesamm", "harrisassociates", "philo",
+    "runwayml", "renaissancelearning-nam", "openfarminc", "blockchain",
+    "trmlabs", "messari", "breezecash", "predictiveindex", "ref",
+    "justworks", "visiersolutionsinc", "remotecom", "calm", "jetsonhome",
+    "wheelhousedmg", "cognitiv", "charlesriverassociates", "hightouch",
+    "newsbreak", "togetherai", "amplitude", "shopmy", "scowtt",
+    "coderoad", "verse", "horizonindustrieslimited",
 ]
 
 KEYWORDS = [
