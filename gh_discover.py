@@ -43,6 +43,16 @@ CANDIDATES = [
     "grafanalabs", "northbeam", "charterschoolgrowthfund", "mixpanel",
     "bevicareers", "torcrobotics", "apptronik", "nimblerobotics",
     "locusrobotics", "zone5technologies", "workstream",
+    # Eighth batch -- verified via WebSearch of real job-boards.greenhouse.io URLs
+    "eve", "oddball", "ducerapartners", "drivewealth", "coursera", "itd",
+    "aclu", "orchard", "dragos", "cultureamp", "betterhelpcom",
+    "defenseunicorns", "fireworksai", "mattermost", "dropzoneai",
+    "addepar1", "samsungsemiconductor", "canonical", "senseiag",
+    "stackadapt", "classpass", "blueskyinnovators", "algolia", "postscript",
+    "winhomeinspection", "apartmentiq", "splitero", "k2spacecorporation",
+    "kodiak", "faradayfuture", "formic", "bedrockrobotics", "fortrobotics",
+    "extend", "houseaccount", "placementsio", "drweng", "upstart",
+    "digitalocean98", "legalservicesnyc", "metropolis", "cribl", "federato",
 ]
 
 KEYWORDS = [
