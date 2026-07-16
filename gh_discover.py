@@ -88,6 +88,13 @@ CANDIDATES = [
     "careaccess", "sidebycare", "fuzehealth", "capitalrx", "axuall",
     "penninteractive", "scopely", "2k", "azragames",
     "sonyinteractiveentertainmentglobal",
+    # Fifteenth batch -- verified via WebSearch of real job-boards.greenhouse.io URLs
+    "dataiku", "campminder", "fortifyiq", "fieldwire", "alpaca", "figure",
+    # Sixteenth batch -- verified via WebSearch of real job-boards.greenhouse.io URLs
+    "iherb", "keebo", "velir", "latitude", "materialbank", "parloa",
+    "chalkinc",
+    # Seventeenth batch -- verified via WebSearch of real job-boards.greenhouse.io URLs
+    "distantjob", "lightspeedhq",
 ]
 
 KEYWORDS = [
