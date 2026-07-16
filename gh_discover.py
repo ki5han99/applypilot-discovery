@@ -73,6 +73,21 @@ CANDIDATES = [
     "mettel", "skylotechnologies", "alphafmcroles", "lazarusenterprises",
     "lilasciences", "bridgewater89", "recharge", "coherehealth",
     "gravitypayments17",
+    # Eleventh batch -- verified via WebSearch of real job-boards.greenhouse.io URLs
+    "accuweather", "usenourish", "point72", "fastspring", "pilothq",
+    "focusfinancialpartners", "gridmaticinc", "toast", "labelbox",
+    "gradial", "arizeai",
+    # Twelfth batch -- verified via WebSearch of real job-boards.greenhouse.io URLs
+    "samsara", "krollbondratingagency", "ageoflearninginc", "quanata",
+    "remotepeople", "counterpart", "coinbase", "affirm", "garnerhealth",
+    "cloudbedsthirdpartyboard", "axios",
+    # Thirteenth batch -- verified via WebSearch of real job-boards.greenhouse.io URLs
+    "roofr", "goatgroup", "thenewyorktimes", "gusto", "forafinancial",
+    "ninjatrader", "chime", "missionlane", "wisetack", "paynearmeinc",
+    # Fourteenth batch -- verified via WebSearch of real job-boards.greenhouse.io URLs
+    "careaccess", "sidebycare", "fuzehealth", "capitalrx", "axuall",
+    "penninteractive", "scopely", "2k", "azragames",
+    "sonyinteractiveentertainmentglobal",
 ]
 
 KEYWORDS = [
