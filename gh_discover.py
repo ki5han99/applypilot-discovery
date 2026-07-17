@@ -95,6 +95,8 @@ CANDIDATES = [
     "chalkinc",
     # Seventeenth batch -- verified via WebSearch of real job-boards.greenhouse.io URLs
     "distantjob", "lightspeedhq",
+    # Eighteenth batch -- verified via WebSearch of real job-boards.greenhouse.io URLs
+    "cribl", "securityscorecard", "vialogic", "scaleai", "twilio", "okta",
 ]
 
 KEYWORDS = [
