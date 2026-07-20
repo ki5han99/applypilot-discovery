@@ -11,6 +11,8 @@ CANDIDATES = [
     "analyticpartners", "civitech", "loopreturns", "aledade", "regal.ai",
     "metabase", "Coda", "alimentiv-2", "sugarcrm", "wgsn",
     "terawattinfrastructure", "massive-rocket", "windfalldata", "resilinc",
+    # Third batch
+    "whoop", "pattern",
 ]
 
 KEYWORDS = [

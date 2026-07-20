@@ -11,6 +11,9 @@ CANDIDATES = [
     "gc-ai", "alchemy", "pylon-labs", "parafin", "1password", "tandem",
     "Perk", "counsel", "coderabbit", "plaid", "ibotta", "socure", "mdcalc",
     "jellyfish", "jbs-dev",
+    # Third batch
+    "onhires", "ramp", "radiant-industries", "betterup", "Sierra", "pagos",
+    "block-labs",
 ]
 
 KEYWORDS = [
