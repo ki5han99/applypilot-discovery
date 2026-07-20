@@ -7,6 +7,10 @@ DB = "/Users/sainandakishanedimadakala/.applypilot/applypilot.db"
 CANDIDATES = [
     "neighbor", "BDG", "jobgether", "hhaexchange", "versapay", "aircall",
     "redhorsecorp", "finix",
+    # Second batch
+    "analyticpartners", "civitech", "loopreturns", "aledade", "regal.ai",
+    "metabase", "Coda", "alimentiv-2", "sugarcrm", "wgsn",
+    "terawattinfrastructure", "massive-rocket", "windfalldata", "resilinc",
 ]
 
 KEYWORDS = [

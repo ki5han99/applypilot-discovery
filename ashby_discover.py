@@ -7,6 +7,10 @@ DB = "/Users/sainandakishanedimadakala/.applypilot/applypilot.db"
 CANDIDATES = [
     "regard", "vytalize-health", "CodaMetrix", "midnite", "facilityos",
     "relationrx",
+    # Second batch
+    "gc-ai", "alchemy", "pylon-labs", "parafin", "1password", "tandem",
+    "Perk", "counsel", "coderabbit", "plaid", "ibotta", "socure", "mdcalc",
+    "jellyfish", "jbs-dev",
 ]
 
 KEYWORDS = [
