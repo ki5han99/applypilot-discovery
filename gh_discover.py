@@ -97,6 +97,84 @@ CANDIDATES = [
     "distantjob", "lightspeedhq",
     # Eighteenth batch -- verified via WebSearch of real job-boards.greenhouse.io URLs
     "cribl", "securityscorecard", "vialogic", "scaleai", "twilio", "okta",
+    # Nineteenth batch -- verified via WebSearch of real job-boards.greenhouse.io URLs
+    "goguardian", "reddit", "tailscale", "engine", "technologyadvice",
+    "intercom", "medium", "typeform", "recursionpharmaceuticals", "honor",
+    "themotleyfool", "nearsure", "doximity", "behavox", "flexport",
+    "anthropic",
+    # Twentieth batch -- verified via WebSearch of real job-boards.greenhouse.io URLs
+    "launch2", "foresitelabs", "abakaai", "funga", "glyphicbiotechnologies",
+    "xai", "pinterest", "gleanwork", "sayari", "snorkelai", "elixirr",
+    "accordion", "kikoff", "databricks", "mongodb", "cloudflare",
+    # Twenty-first batch -- verified via WebSearch of real job-boards.greenhouse.io URLs
+    "dropbox", "sportygroup", "khealthcareers", "komodohealth", "mcghealth",
+    "mavenclinic", "testlio", "rubrik", "axs", "discord", "bpcs",
+    "remotetcx", "roblox", "betsson", "helsing",
+    # Twenty-second batch -- verified via WebSearch of real job-boards.greenhouse.io URLs
+    "waymark", "block", "candidly", "swayable", "spade", "commerceiq",
+    "residenthome", "tactacam", "thedutchie", "ripple", "polychaincapital",
+    # Twenty-third batch -- healthcare/trading/insurance-adjacent, verified via WebSearch
+    "mavensecuritiesholdingltd", "schonfeld", "kronosresearch", "bitmex",
+    "icapitalnetwork", "arcanaanalytics", "aquaticcapitalmanagement",
+    "massarcapital", "tuesdayhealth", "evio", "transcarent", "omadahealth",
+    "stackline",
+    # Twenty-fourth batch -- biotech/media/security/travel, verified via WebSearch
+    "formationbio", "truveta", "coherentsolutions", "goodfire",
+    "attentionarc", "emarketer", "advertisingspecialtyinstitute",
+    "bidmachine", "springhealth66", "wizinc", "digible", "centralreach",
+    "nmi", "zscaler", "tanium", "resortpass", "method", "andurilindustries",
+    # Twenty-fifth batch -- logistics/proptech/edtech/energy, verified via WebSearch
+    "flockfreight", "uberfreight", "shipwell", "lottebiologicsusallc",
+    "codepath", "launchdarkly", "orennia",
+    # Twenty-sixth batch -- govtech/robotics/AV/consumer, verified via WebSearch
+    "capitaltg", "deliveryassociates", "pathward", "weedmaps77", "helmai",
+    "motional", "glydways", "lucidbots", "roboforce", "babylist",
+    # Twenty-seventh batch -- manufacturing/telecom/b2b saas, verified via WebSearch
+    "rebuildmanufacturing", "robotsandpencils", "ubiquiti", "datavations",
+    "customerio", "accessibe", "boulevard", "evolutioniq", "formativgroup",
+    "constantcontact", "cofertility",
+    # Twenty-eighth batch -- media/wellness/energy, verified via WebSearch
+    "soundcloud71", "urbansportsclub", "energyhub", "growtherapy",
+    # Twenty-ninth batch -- junior/staff niche, verified via WebSearch
+    "arvaintelligence", "mthreerecruitingportal", "interworks",
+    "pioneersquarelabs", "smarterdx",
+    # Thirtieth batch -- VC/PE/govtech/nonprofit, verified via WebSearch
+    "coreweave", "sustainment", "equilibriumenergy", "bessemerventurepartners",
+    "gardacp", "carta", "affinity", "iconcareers", "developforgood",
+    "donorbox",
+    # Thirty-first batch -- CPG/security/travel, verified via WebSearch
+    "connectedcannabis", "bluelabsanalyticsinc", "calendly", "getyourguide",
+    "kaseya", "recordedfuture", "datadog",
+    # Thirty-second batch -- fintech/identity/fraud, verified via WebSearch
+    "upgrade", "current81", "prove", "idme", "integra", "mercury",
+    # Thirty-third batch -- space/fashion/telehealth, verified via WebSearch
+    "astranis", "galaxiatech", "fashionnova", "renttherunway", "shein",
+    "instridehealth", "firsthand", "modernhealth",
+    # Thirty-fourth batch -- media/fintech B2B, verified via WebSearch
+    "cpm", "propublica", "udio", "nationalpublicradioinc", "modulrfinance",
+    "avidxchangeinc", "tide", "anteriad",
+    # Thirty-fifth batch -- sustainability/e-commerce, verified via WebSearch
+    "arcadiacareers", "carbondirect", "greenplaces", "carbon", "yotpo",
+    "ethoslife",
+    # Thirty-sixth batch -- AI infra/pet tech/food tech, verified via WebSearch
+    "clariticloudinc", "xpengmotors", "8451", "lightningai", "tegnainc",
+    "roo", "tomofunfurbo", "zerocater", "careem", "agilesix",
+    # Thirty-seventh batch -- home services/docmgmt, verified via WebSearch
+    "analyticservicesinc", "cascadeloans", "documocareers", "verramobility",
+    # Thirty-eighth batch -- gaming/grocery delivery/devtools, verified via WebSearch
+    "rockstargames", "athinkingape", "eleventhhourgames", "fastly",
+    "try-picnic", "quadbridge", "gtv", "robinhood",
+    # Thirty-ninth batch -- hardware/EV/energy/localization, verified via WebSearch
+    "glance", "fetchrewards", "lucidmotors", "momentenergy",
+    "betatechnologiesinc", "inchargeenergy", "aypapower", "wolt", "agoda",
+    "mozilla", "botauto", "latam", "figureai",
+    # Fortieth batch -- misc, verified via WebSearch
+    "link",
+    # Forty-first batch -- proptech/telehealth, verified via WebSearch
+    "doma", "ophelia",
+    # Forty-second batch -- AI agents/biotech/climate, verified via WebSearch
+    "agencywithin", "eclipse", "assetwatch", "nilotherapeutics", "epicbio",
+    "altoslabs", "xebiaspain",
 ]
 
 KEYWORDS = [
