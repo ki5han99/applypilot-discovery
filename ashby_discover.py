@@ -14,6 +14,9 @@ CANDIDATES = [
     # Third batch
     "onhires", "ramp", "radiant-industries", "betterup", "Sierra", "pagos",
     "block-labs",
+    # Fourth batch
+    "baseten", "reflectionai", "exa", "gigaml", "withclutch", "go-augment",
+    "lovable", "meticulous", "console", "P-1 AI",
 ]
 
 KEYWORDS = [

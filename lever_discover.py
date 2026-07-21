@@ -13,6 +13,8 @@ CANDIDATES = [
     "terawattinfrastructure", "massive-rocket", "windfalldata", "resilinc",
     # Third batch
     "whoop", "pattern",
+    # Fourth batch
+    "palantir", "collate", "thinkahead", "AIFund", "saronic", "field-ai",
 ]
 
 KEYWORDS = [
