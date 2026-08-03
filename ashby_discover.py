@@ -17,6 +17,8 @@ CANDIDATES = [
     # Fourth batch
     "baseten", "reflectionai", "exa", "gigaml", "withclutch", "go-augment",
     "lovable", "meticulous", "console", "P-1 AI",
+    # Fifth batch
+    "seamflow", "blitzy", "normalcomputing", "higharc", "edgesource",
 ]
 
 KEYWORDS = [

@@ -15,6 +15,8 @@ CANDIDATES = [
     "whoop", "pattern",
     # Fourth batch
     "palantir", "collate", "thinkahead", "AIFund", "saronic", "field-ai",
+    # Fifth batch
+    "wmg", "resilientco", "welocalize",
 ]
 
 KEYWORDS = [

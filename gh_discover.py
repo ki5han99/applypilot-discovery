@@ -175,6 +175,8 @@ CANDIDATES = [
     # Forty-second batch -- AI agents/biotech/climate, verified via WebSearch
     "agencywithin", "eclipse", "assetwatch", "nilotherapeutics", "epicbio",
     "altoslabs", "xebiaspain",
+    # Forty-third batch -- cybersecurity/insurtech/healthtech, verified via WebSearch
+    "huntress", "fireblocks", "qualifiedhealth",
 ]
 
 KEYWORDS = [
