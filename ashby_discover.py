@@ -19,6 +19,9 @@ CANDIDATES = [
     "lovable", "meticulous", "console", "P-1 AI",
     # Fifth batch
     "seamflow", "blitzy", "normalcomputing", "higharc", "edgesource",
+    # Sixth batch
+    "mecka.ai", "trm-labs", "hilberts", "cerebras", "lime", "codat", "n8n",
+    "newtonx", "moovx", "g2i", "hive.co",
 ]
 
 KEYWORDS = [

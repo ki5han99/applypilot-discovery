@@ -17,6 +17,8 @@ CANDIDATES = [
     "palantir", "collate", "thinkahead", "AIFund", "saronic", "field-ai",
     # Fifth batch
     "wmg", "resilientco", "welocalize",
+    # Sixth batch
+    "grailbio", "corebts", "ciandt", "remofirst", "plume",
 ]
 
 KEYWORDS = [
