@@ -187,6 +187,8 @@ CANDIDATES = [
     "aircallioinc", "gitlab", "eulerity", "figma",
     # Forty-sixth batch -- AI PM angle, verified via WebSearch
     "pearlhealth", "purestorage", "postscript", "headway", "yipitdatajobs",
+    # Forty-seventh batch -- data platform/infra angle, verified via WebSearch
+    "acryldata", "sesamm", "tekion", "flohealth", "bioptimus8", "perform-careers",
 ]
 
 KEYWORDS = [

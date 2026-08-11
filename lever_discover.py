@@ -25,6 +25,8 @@ CANDIDATES = [
     "zaimler", "tri", "agile-defense", "shieldai", "humble-robotics", "weloglobal",
     # Ninth batch -- solutions engineer angle, verified via WebSearch
     "verifiable",
+    # Tenth batch -- ML engineer angle, verified via WebSearch
+    "spotify", "mistral", "hive",
 ]
 
 KEYWORDS = [
