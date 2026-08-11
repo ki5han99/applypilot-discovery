@@ -29,6 +29,9 @@ CANDIDATES = [
     "Promise", "Cape", "cartesia",
     # Eighth batch
     "savvymoney", "outmarket", "ndeavour",
+    # Ninth batch -- widened-keyword sweep (ML engineer), verified via WebSearch
+    "videa.ai", "pangramlabs", "root-access", "airspace-intelligence.com",
+    "percepta", "absentia-labs", "openai", "langchain",
 ]
 
 KEYWORDS = [

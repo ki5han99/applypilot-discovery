@@ -180,6 +180,9 @@ CANDIDATES = [
     "altoslabs", "xebiaspain",
     # Forty-third batch -- cybersecurity/insurtech/healthtech, verified via WebSearch
     "huntress", "fireblocks", "qualifiedhealth",
+    # Forty-fourth batch -- widened-keyword sweep (solutions/data architect/ETL), verified via WebSearch
+    "tenet3", "planetscale", "unanet", "workwave", "arcadia", "nortal",
+    "answerrocket", "exadelinc", "launchpadtechnologiesinc",
 ]
 
 KEYWORDS = [
