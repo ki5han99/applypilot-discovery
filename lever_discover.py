@@ -23,6 +23,8 @@ CANDIDATES = [
     "lemnis", "Instrumentl", "SymmetrySystems",
     # Eighth batch
     "zaimler", "tri", "agile-defense", "shieldai", "humble-robotics", "weloglobal",
+    # Ninth batch -- solutions engineer angle, verified via WebSearch
+    "verifiable",
 ]
 
 KEYWORDS = [

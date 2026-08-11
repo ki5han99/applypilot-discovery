@@ -183,6 +183,8 @@ CANDIDATES = [
     # Forty-fourth batch -- widened-keyword sweep (solutions/data architect/ETL), verified via WebSearch
     "tenet3", "planetscale", "unanet", "workwave", "arcadia", "nortal",
     "answerrocket", "exadelinc", "launchpadtechnologiesinc",
+    # Forty-fifth batch -- FDE angle, verified via WebSearch
+    "aircallioinc", "gitlab", "eulerity", "figma",
 ]
 
 KEYWORDS = [
