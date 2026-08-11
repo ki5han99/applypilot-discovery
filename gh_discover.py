@@ -185,6 +185,8 @@ CANDIDATES = [
     "answerrocket", "exadelinc", "launchpadtechnologiesinc",
     # Forty-fifth batch -- FDE angle, verified via WebSearch
     "aircallioinc", "gitlab", "eulerity", "figma",
+    # Forty-sixth batch -- AI PM angle, verified via WebSearch
+    "pearlhealth", "purestorage", "postscript", "headway", "yipitdatajobs",
 ]
 
 KEYWORDS = [
