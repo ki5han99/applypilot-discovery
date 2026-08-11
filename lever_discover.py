@@ -31,6 +31,10 @@ KEYWORDS = [
     "senior data engineer", "sr. data engineer", "sr data engineer",
     "data platform engineer", "business intelligence engineer",
     "bi engineer", "data infrastructure engineer",
+    "machine learning engineer", "ml engineer", "ai engineer",
+    "data architect", "etl engineer", "analytics manager",
+    "product manager, ai", "ai product manager", "gen ai engineer",
+    "data science engineer", "solutions engineer", "deployment engineer",
 ]
 
 def matches(title: str) -> bool:
