@@ -189,6 +189,8 @@ CANDIDATES = [
     "pearlhealth", "purestorage", "postscript", "headway", "yipitdatajobs",
     # Forty-seventh batch -- data platform/infra angle, verified via WebSearch
     "acryldata", "sesamm", "tekion", "flohealth", "bioptimus8", "perform-careers",
+    # Forty-eighth batch -- remote senior data engineer angle, verified via WebSearch
+    "voyagertechnologiesinc",
 ]
 
 KEYWORDS = [

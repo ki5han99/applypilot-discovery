@@ -32,6 +32,8 @@ CANDIDATES = [
     # Ninth batch -- widened-keyword sweep (ML engineer), verified via WebSearch
     "videa.ai", "pangramlabs", "root-access", "airspace-intelligence.com",
     "percepta", "absentia-labs", "openai", "langchain",
+    # Tenth batch -- FDE angle, verified via WebSearch
+    "tenexlabs",
 ]
 
 KEYWORDS = [
