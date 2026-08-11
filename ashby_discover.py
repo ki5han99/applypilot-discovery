@@ -34,6 +34,9 @@ CANDIDATES = [
     "percepta", "absentia-labs", "openai", "langchain",
     # Tenth batch -- FDE angle, verified via WebSearch
     "tenexlabs",
+    # Eleventh batch -- AI/data angle, verified via WebSearch 2026-08-11
+    "leandata", "latent", "middesk", "Doppel", "brainco", "embedding-vc",
+    "mach", "mercor", "rogerhealthcare", "openrouter", "salient",
 ]
 
 KEYWORDS = [

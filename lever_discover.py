@@ -27,6 +27,9 @@ CANDIDATES = [
     "verifiable",
     # Tenth batch -- ML engineer angle, verified via WebSearch
     "spotify", "mistral", "hive",
+    # Eleventh batch -- data/AI angle, verified via WebSearch 2026-08-11
+    "datalogue", "go-cloudforce", "dataplor", "mendix", "hevodata",
+    "Ketch", "prominentedge",
 ]
 
 KEYWORDS = [

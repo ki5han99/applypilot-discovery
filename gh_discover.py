@@ -191,6 +191,10 @@ CANDIDATES = [
     "acryldata", "sesamm", "tekion", "flohealth", "bioptimus8", "perform-careers",
     # Forty-eighth batch -- remote senior data engineer angle, verified via WebSearch
     "voyagertechnologiesinc",
+    # Forty-ninth batch -- FDE/DA/ML angle, verified via WebSearch 2026-08-11
+    "aircallioinc", "warp", "striiminc", "eulerity", "sitrepsllc",
+    "gleanwork", "gradial", "tactilemedical", "miopartners",
+    "cobaltservicepartners", "techholding", "exadelinc", "assystinc", "aclu",
 ]
 
 KEYWORDS = [
