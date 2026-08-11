@@ -19,6 +19,10 @@ CANDIDATES = [
     "wmg", "resilientco", "welocalize",
     # Sixth batch
     "grailbio", "corebts", "ciandt", "remofirst", "plume",
+    # Seventh batch
+    "lemnis", "Instrumentl", "SymmetrySystems",
+    # Eighth batch
+    "zaimler", "tri", "agile-defense", "shieldai", "humble-robotics", "weloglobal",
 ]
 
 KEYWORDS = [

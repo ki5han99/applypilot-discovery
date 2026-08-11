@@ -5,6 +5,8 @@ DB = "/Users/sainandakishanedimadakala/.applypilot/applypilot.db"
 
 # Candidate Ashby-hosted companies (board token = url slug in jobs.ashbyhq.com/<slug>).
 CANDIDATES = [
+    # Batch: verified via WebSearch 2026-08-10
+    "reactivemarkets", "taktile", "recruyt",
     "regard", "vytalize-health", "CodaMetrix", "midnite", "facilityos",
     "relationrx",
     # Second batch
@@ -22,6 +24,11 @@ CANDIDATES = [
     # Sixth batch
     "mecka.ai", "trm-labs", "hilberts", "cerebras", "lime", "codat", "n8n",
     "newtonx", "moovx", "g2i", "hive.co",
+    # Seventh batch
+    "inato", "sardine", "flowengineering", "lorikeet", "generalrobotics",
+    "Promise", "Cape", "cartesia",
+    # Eighth batch
+    "savvymoney", "outmarket", "ndeavour",
 ]
 
 KEYWORDS = [

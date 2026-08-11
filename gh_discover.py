@@ -6,6 +6,9 @@ DB = "/Users/sainandakishanedimadakala/.applypilot/applypilot.db"
 # Candidate Greenhouse-hosted companies (board token = url slug).
 # Mix of fintech / enterprise / healthcare / gaming-adjacent tech, avoiding known Workday shops.
 CANDIDATES = [
+    # Batch 43 -- verified via WebSearch 2026-08-10
+    "devrev", "chaosindustries", "isidor", "perpay", "airtable",
+    "voyagertechnologiesinc", "cortex", "indigenouspactpbcinc",
     # Fifth batch -- verified via WebSearch of real job-boards.greenhouse.io URLs
     "enova", "audaxgroup", "praxisprecisionmedicines", "cerebrassystems",
     "d2consulting", "grvty", "quberesearchandtechnologies", "greenhouse",
